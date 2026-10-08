@@ -1,0 +1,27 @@
+# Python caches and environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.ipynb_checkpoints/
+*.egg-info/
+build/
+dist/
+# Secrets (keep .env.example)
+.env
+.env.*
+!.env.example
+*.key
+# Generated experiments and potentially licensed datasets
+artifacts/
+results/local/
+datasets/
+*.pth
+*.pt
+*.pkl
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

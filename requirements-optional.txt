@@ -1,0 +1,3 @@
+-r requirements.txt
+tushare>=1.2.89
+shap>=0.44

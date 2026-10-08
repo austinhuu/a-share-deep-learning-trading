@@ -1,0 +1,7 @@
+{
+  "ticker": "688981.SH", "frequency": "1d", "start_date": "20220101", "end_date": "20251231",
+  "lookback_bars": 30, "label_horizon_bars": 1, "buy_threshold": 0.55,
+  "sell_threshold": 0.45, "commission": 0.001, "slippage": 0.0005,
+  "stop_loss_pct": 0.03, "walk_forward_initial_train_ratio": 0.6,
+  "walk_forward_test_bars": 60
+}
